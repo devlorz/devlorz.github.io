@@ -26,24 +26,16 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-<<<<<<< HEAD
     "url": "webpack-runtime-bb2568a5886612934004.js"
   },
   {
     "url": "app-53bcc65e462deb710968.js"
-=======
-    "url": "webpack-runtime-f05b6c22d3e616df2e5f.js"
-  },
-  {
-    "url": "app-3f52b6739043a76e719f.js"
->>>>>>> 0217e2918b6fec9bb8d4e56b986d05504a8d8702
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-af1103fe30df0db1add3.js"
   },
   {
     "url": "index.html",
-<<<<<<< HEAD
     "revision": "e7472e11ddaee351d82b74a2e6eec987"
   },
   {
@@ -55,19 +47,6 @@ self.__precacheManifest = [
   },
   {
     "url": "component---src-pages-index-js-4975d9fa02ad056d11bb.js"
-=======
-    "revision": "1e918222cd402b00ff1db2c0949fecb4"
-  },
-  {
-    "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "49d63464dcec29c5850bd578dc74f2ce"
-  },
-  {
-    "url": "component---src-pages-index-js.89ed34448c2b9429b031.css"
-  },
-  {
-    "url": "component---src-pages-index-js-0b22b5b03fb49bf93e80.js"
->>>>>>> 0217e2918b6fec9bb8d4e56b986d05504a8d8702
   },
   {
     "url": "1-9256231ec37e09fd46a7.js"
